@@ -1,0 +1,10 @@
+{
+    "config": {
+        "manifest": {
+            "override": {
+                "url": "git@github.com:AbdullahAsendar/electrode-native-manifest.git",
+                "type": "partial"
+            }
+        }
+    }
+}
